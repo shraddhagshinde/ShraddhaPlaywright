@@ -38,7 +38,7 @@ test("@demo1 demo QA registration",async({page})=>{
     const demoQAButtons = new DemoQAButtons(page)
     console.log('BASE_URL:', process.env.baseurl);
     await demoQAButtons.url(process.env.baseurl)
-    await demoQA.FillRegistrationForm("shraddha","shinde","mishraddha@gmail.com","9921088567","Pune","Maths")
+    await demoQA.FillRegistrationForm("shraddha","more","mishraddha@gmail.com","9921088567","Pune","Maths")
     await demoQA.dropdown('Haryana','Panipat')
     await page.pause()
 })
