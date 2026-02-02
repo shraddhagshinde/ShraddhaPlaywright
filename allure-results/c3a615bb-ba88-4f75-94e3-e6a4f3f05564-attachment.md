@@ -1,0 +1,1465 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - banner [ref=e3]:
+    - text: "| | |"
+    - generic:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e6]:
+        - generic [ref=e7]:
+          - link "Men" [ref=e10] [cursor=pointer]:
+            - /url: /shop/men
+          - link "Women" [ref=e13] [cursor=pointer]:
+            - /url: /shop/women
+          - link "Kids" [ref=e16] [cursor=pointer]:
+            - /url: /shop/kids
+          - link "Home" [ref=e19] [cursor=pointer]:
+            - /url: /shop/home-living
+          - link "Beauty" [ref=e22] [cursor=pointer]:
+            - /url: /personal-care
+          - link "Genz" [ref=e25] [cursor=pointer]:
+            - /url: /shop/fwd-women
+          - generic [ref=e27]:
+            - link "Studio" [ref=e28] [cursor=pointer]:
+              - /url: /studio/home
+            - superscript [ref=e30]: new
+      - generic [ref=e31]:
+        - generic [ref=e35]: Profile
+        - link "Wishlist":
+          - /url: /wishlist
+          - generic [ref=e37] [cursor=pointer]: Wishlist
+        - link "Bag":
+          - /url: /checkout/cart
+          - generic [ref=e39] [cursor=pointer]: Bag
+      - textbox "Search for products, brands and more" [ref=e41]
+  - generic [ref=e45]:
+    - main [ref=e46]:
+      - list [ref=e49]:
+        - listitem [ref=e50]:
+          - link "Home" [ref=e51] [cursor=pointer]:
+            - /url: /?src=bc
+          - text: /
+        - listitem [ref=e52]:
+          - link "Clothing" [ref=e53] [cursor=pointer]:
+            - /url: /clothing?src=bc
+          - text: /
+        - listitem [ref=e54]: Tops Online
+      - generic [ref=e56]:
+        - heading "Tops Online" [level=1] [ref=e57]
+        - generic [ref=e58]: "- 227960 items"
+      - generic [ref=e59]:
+        - generic [ref=e62]:
+          - generic [ref=e63]: FILTERS
+          - list [ref=e65]:
+            - listitem [ref=e66]:
+              - generic [ref=e67] [cursor=pointer]: Men
+            - listitem [ref=e68]:
+              - generic [ref=e69] [cursor=pointer]: Women
+            - listitem [ref=e70]:
+              - generic [ref=e71] [cursor=pointer]: Boys
+            - listitem [ref=e72]:
+              - generic [ref=e73] [cursor=pointer]: Girls
+          - generic [ref=e74]:
+            - generic [ref=e75]: Categories
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - generic [ref=e78] [cursor=pointer]:
+                  - text: Tops
+                  - generic [ref=e79]: (224269)
+              - listitem [ref=e81]:
+                - generic [ref=e82] [cursor=pointer]:
+                  - text: Thermal Tops
+                  - generic [ref=e83]: (3179)
+              - listitem [ref=e85]:
+                - generic [ref=e86] [cursor=pointer]:
+                  - text: Swim Tops
+                  - generic [ref=e87]: (510)
+          - generic [ref=e89]:
+            - generic [ref=e90]: Brand
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - generic [ref=e95] [cursor=pointer]:
+                  - text: LULU & SKY
+                  - generic [ref=e96]: (7703)
+              - listitem [ref=e98]:
+                - generic [ref=e99] [cursor=pointer]:
+                  - text: StyleCast
+                  - generic [ref=e100]: (7142)
+              - listitem [ref=e102]:
+                - generic [ref=e103] [cursor=pointer]:
+                  - text: DressBerry
+                  - generic [ref=e104]: (5691)
+              - listitem [ref=e106]:
+                - generic [ref=e107] [cursor=pointer]:
+                  - text: Friskers
+                  - generic [ref=e108]: (5683)
+              - listitem [ref=e110]:
+                - generic [ref=e111] [cursor=pointer]:
+                  - text: BAESD
+                  - generic [ref=e112]: (5244)
+              - listitem [ref=e114]:
+                - generic [ref=e115] [cursor=pointer]:
+                  - text: Dream Beauty Fashion
+                  - generic [ref=e116]: (3865)
+              - listitem [ref=e118]:
+                - generic [ref=e119] [cursor=pointer]:
+                  - text: StyleCast x Revolte
+                  - generic [ref=e120]: (3652)
+              - listitem [ref=e122]:
+                - generic [ref=e123] [cursor=pointer]:
+                  - text: Trendyol
+                  - generic [ref=e124]: (3473)
+            - generic [ref=e126] [cursor=pointer]: + 2801 more
+          - generic [ref=e127]:
+            - generic [ref=e128]: Price
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - button [ref=e134]
+                - button [ref=e136]
+              - generic [ref=e138]: ₹0 - ₹10,000+
+          - generic [ref=e139]:
+            - generic [ref=e140]: Color
+            - list [ref=e143]:
+              - listitem [ref=e144]:
+                - generic [ref=e145] [cursor=pointer]:
+                  - text: Black
+                  - generic [ref=e147]: (36416)
+              - listitem [ref=e149]:
+                - generic [ref=e150] [cursor=pointer]:
+                  - text: White
+                  - generic [ref=e152]: (27881)
+              - listitem [ref=e154]:
+                - generic [ref=e155] [cursor=pointer]:
+                  - text: Blue
+                  - generic [ref=e157]: (20413)
+              - listitem [ref=e159]:
+                - generic [ref=e160] [cursor=pointer]:
+                  - text: Pink
+                  - generic [ref=e162]: (18384)
+              - listitem [ref=e164]:
+                - generic [ref=e165] [cursor=pointer]:
+                  - text: Green
+                  - generic [ref=e167]: (15374)
+              - listitem [ref=e169]:
+                - generic [ref=e170] [cursor=pointer]:
+                  - text: Red
+                  - generic [ref=e172]: (10487)
+              - listitem [ref=e174]:
+                - generic [ref=e175] [cursor=pointer]:
+                  - text: Brown
+                  - generic [ref=e177]: (8431)
+            - generic [ref=e180] [cursor=pointer]: + 44 more
+          - generic [ref=e181]:
+            - generic [ref=e182]: Discount Range
+            - list [ref=e183]:
+              - listitem [ref=e184]:
+                - generic [ref=e185] [cursor=pointer]: 10% and above
+              - listitem [ref=e186]:
+                - generic [ref=e187] [cursor=pointer]: 20% and above
+              - listitem [ref=e188]:
+                - generic [ref=e189] [cursor=pointer]: 30% and above
+              - listitem [ref=e190]:
+                - generic [ref=e191] [cursor=pointer]: 40% and above
+              - listitem [ref=e192]:
+                - generic [ref=e193] [cursor=pointer]: 50% and above
+              - listitem [ref=e194]:
+                - generic [ref=e195] [cursor=pointer]: 60% and above
+              - listitem [ref=e196]:
+                - generic [ref=e197] [cursor=pointer]: 70% and above
+              - listitem [ref=e198]:
+                - generic [ref=e199] [cursor=pointer]: 80% and above
+              - listitem [ref=e200]:
+                - generic [ref=e201] [cursor=pointer]: 90% and above
+        - generic [ref=e203]:
+          - generic [ref=e206]:
+            - generic [ref=e210] [cursor=pointer]: "Sort by : Recommended"
+            - list [ref=e213]:
+              - listitem [ref=e214] [cursor=pointer]:
+                - heading "Bundles" [level=4] [ref=e216]
+              - listitem [ref=e218] [cursor=pointer]:
+                - heading "Country of Origin" [level=4] [ref=e220]
+              - listitem [ref=e222] [cursor=pointer]:
+                - heading "Size" [level=4] [ref=e224]
+              - listitem
+          - generic [ref=e227]:
+            - list [ref=e228]:
+              - listitem [ref=e229]:
+                - generic [ref=e230]:
+                  - generic [ref=e231]: "2.8"
+                  - generic [ref=e233]:
+                    - generic [ref=e234]: "|"
+                    - text: "27"
+                - link "Aura Glam Girls Cotton Blend Tops Aura Glam Girls Puff Sleeves Top Rs. 213Rs. 999(79% OFF)" [active] [ref=e235] [cursor=pointer]:
+                  - /url: tops/aura+glam/aura-glam-girls-cotton-blend-tops/38984808/buy
+                  - img "Aura Glam Girls Cotton Blend Tops" [ref=e241]
+                  - generic [ref=e242]:
+                    - heading "Aura Glam" [level=3] [ref=e243]
+                    - heading "Girls Puff Sleeves Top" [level=4] [ref=e244]
+                    - generic [ref=e245]:
+                      - generic [ref=e246]:
+                        - generic [ref=e247]: Rs. 213
+                        - generic [ref=e248]: Rs. 999
+                      - text: (79% OFF)
+              - listitem [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]: "4.5"
+                  - generic [ref=e253]:
+                    - generic [ref=e254]: "|"
+                    - text: 1.7k
+                - link "Alexvyan Winter Warm Fleece Inside Narrow Strap-Slim Fit Thermal Camisole Alexvyan Slim Fit Thermal Camisole Rs. 480Rs. 999(52% OFF)" [ref=e255] [cursor=pointer]:
+                  - /url: thermal-tops/alexvyan/alexvyan-winter-warm-fleece-inside-narrow-strap-slim-fit-thermal-camisole/26040904/buy
+                  - img "Alexvyan Winter Warm Fleece Inside Narrow Strap-Slim Fit Thermal Camisole" [ref=e261]
+                  - generic [ref=e262]:
+                    - heading "Alexvyan" [level=3] [ref=e263]
+                    - heading "Slim Fit Thermal Camisole" [level=4] [ref=e264]
+                    - generic [ref=e265]:
+                      - generic [ref=e266]:
+                        - generic [ref=e267]: Rs. 480
+                        - generic [ref=e268]: Rs. 999
+                      - text: (52% OFF)
+              - listitem [ref=e269]:
+                - generic [ref=e270]:
+                  - generic [ref=e271]: "3.5"
+                  - generic [ref=e273]:
+                    - generic [ref=e274]: "|"
+                    - text: "28"
+                - generic [ref=e275]: AD
+                - link "bebe Future Glam Cold-Shoulder Cuffed Sleeves Satin Party Top bebe Future Glam Satin Party Top Rs. 322Rs. 1899(83% OFF)" [ref=e276] [cursor=pointer]:
+                  - /url: tops/bebe/bebe-future-glam-cold-shoulder-cuffed-sleeves-satin-party-top/31379796/buy
+                  - img "bebe Future Glam Cold-Shoulder Cuffed Sleeves Satin Party Top" [ref=e282]
+                  - generic [ref=e283]:
+                    - heading "bebe" [level=3] [ref=e284]
+                    - heading "Future Glam Satin Party Top" [level=4] [ref=e285]
+                    - generic [ref=e286]:
+                      - generic [ref=e287]:
+                        - generic [ref=e288]: Rs. 322
+                        - generic [ref=e289]: Rs. 1899
+                      - text: (83% OFF)
+              - listitem [ref=e290]:
+                - generic [ref=e291]:
+                  - generic [ref=e292]: "4.3"
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: "|"
+                    - text: 2.5k
+                - link "Decathlon WEDZE - Men Black Solid Skiing And Snowboarding Thermal Top Decathlon Men Skiing Thermal Top Rs. 699Rs. 999(30% OFF)" [ref=e296] [cursor=pointer]:
+                  - /url: thermal-tops/decathlon/decathlon-wedze---men-black-solid-skiing-and-snowboarding-thermal-top/14937456/buy
+                  - img "Decathlon WEDZE - Men Black Solid Skiing And Snowboarding Thermal Top" [ref=e302]
+                  - generic [ref=e303]:
+                    - heading "Decathlon" [level=3] [ref=e304]
+                    - heading "Men Skiing Thermal Top" [level=4] [ref=e305]
+                    - generic [ref=e306]:
+                      - generic [ref=e307]:
+                        - generic [ref=e308]: Rs. 699
+                        - generic [ref=e309]: Rs. 999
+                      - text: (30% OFF)
+              - listitem [ref=e310]:
+                - generic [ref=e311]:
+                  - generic [ref=e312]: "4.5"
+                  - generic [ref=e314]:
+                    - generic [ref=e315]: "|"
+                    - text: 3.9k
+                - link "Decathlon WEDZE Women Black Solid Thermal Tops Decathlon Women Solid Thermal Tops Rs. 699Rs. 999(30% OFF)" [ref=e316] [cursor=pointer]:
+                  - /url: thermal-tops/decathlon/decathlon-wedze-women-black-solid-thermal-tops/14938238/buy
+                  - img "Decathlon WEDZE Women Black Solid Thermal Tops" [ref=e322]
+                  - generic [ref=e323]:
+                    - heading "Decathlon" [level=3] [ref=e324]
+                    - heading "Women Solid Thermal Tops" [level=4] [ref=e325]
+                    - generic [ref=e326]:
+                      - generic [ref=e327]:
+                        - generic [ref=e328]: Rs. 699
+                        - generic [ref=e329]: Rs. 999
+                      - text: (30% OFF)
+              - listitem [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e332]: "3.6"
+                  - generic [ref=e334]:
+                    - generic [ref=e335]: "|"
+                    - text: "80"
+                - generic [ref=e336]: AD
+                - link "Sugathari V-Neck Styled Back Crop Top Sugathari V-Neck Styled Back Top Rs. 399Rs. 1596(75% OFF)" [ref=e337] [cursor=pointer]:
+                  - /url: tops/sugathari/sugathari-v-neck-styled-back-crop-top/33627495/buy
+                  - img "Sugathari V-Neck Styled Back Crop Top" [ref=e343]
+                  - generic [ref=e344]:
+                    - heading "Sugathari" [level=3] [ref=e345]
+                    - heading "V-Neck Styled Back Top" [level=4] [ref=e346]
+                    - generic [ref=e347]:
+                      - generic [ref=e348]:
+                        - generic [ref=e349]: Rs. 399
+                        - generic [ref=e350]: Rs. 1596
+                      - text: (75% OFF)
+              - listitem [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e353]: "4.6"
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: "|"
+                    - text: 1.3k
+                - link "Alexvyan Winter Warm Fleece Inside Slim Fit Thermal Camisole Alexvyan Slim Fit Thermal Camisole Rs. 475Rs. 999(52% OFF)" [ref=e357] [cursor=pointer]:
+                  - /url: thermal-tops/alexvyan/alexvyan-winter-warm-fleece-inside-slim-fit-thermal-camisole/26040892/buy
+                  - img "Alexvyan Winter Warm Fleece Inside Slim Fit Thermal Camisole" [ref=e363]
+                  - generic [ref=e364]:
+                    - heading "Alexvyan" [level=3] [ref=e365]
+                    - heading "Slim Fit Thermal Camisole" [level=4] [ref=e366]
+                    - generic [ref=e367]:
+                      - generic [ref=e368]:
+                        - generic [ref=e369]: Rs. 475
+                        - generic [ref=e370]: Rs. 999
+                      - text: (52% OFF)
+              - listitem [ref=e371]:
+                - generic [ref=e372]:
+                  - generic [ref=e373]: "4.4"
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: "|"
+                    - text: 1.1k
+                - link "DIXCY SCOTT Originals 4-Way Stretch Ribbed Thermal Tops DIXCY SCOTT Ribbed Thermal Tops Rs. 332Rs. 665(50% OFF)" [ref=e377] [cursor=pointer]:
+                  - /url: thermal-tops/dixcy+scott/dixcy-scott-originals--4-way-stretch-ribbed-thermal-tops/24715414/buy
+                  - img "DIXCY SCOTT Originals 4-Way Stretch Ribbed Thermal Tops" [ref=e383]
+                  - generic [ref=e384]:
+                    - heading "DIXCY SCOTT" [level=3] [ref=e385]
+                    - heading "Ribbed Thermal Tops" [level=4] [ref=e386]
+                    - generic [ref=e387]:
+                      - generic [ref=e388]:
+                        - generic [ref=e389]: Rs. 332
+                        - generic [ref=e390]: Rs. 665
+                      - text: (50% OFF)
+              - listitem [ref=e391]:
+                - generic [ref=e392]:
+                  - generic [ref=e393]: "4.2"
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: "|"
+                    - text: 4.3k
+                - generic [ref=e397]: AD
+                - link "QUIERO Floral Print Puff Sleeve Georgette Top QUIERO Floral Print Puff Sleeve Georgette Top Rs. 415Rs. 1950(Rs. 1535 OFF)" [ref=e398] [cursor=pointer]:
+                  - /url: tops/quiero/quiero-floral-print-puff-sleeve-georgette-top/25951604/buy
+                  - img "QUIERO Floral Print Puff Sleeve Georgette Top" [ref=e404]
+                  - generic [ref=e405]:
+                    - heading "QUIERO" [level=3] [ref=e406]
+                    - heading "Floral Print Puff Sleeve Georgette Top" [level=4] [ref=e407]
+                    - generic [ref=e408]:
+                      - generic [ref=e409]:
+                        - generic [ref=e410]: Rs. 415
+                        - generic [ref=e411]: Rs. 1950
+                      - text: (Rs. 1535 OFF)
+              - listitem [ref=e412]:
+                - generic [ref=e413]:
+                  - generic [ref=e414]: "3.8"
+                  - generic [ref=e416]:
+                    - generic [ref=e417]: "|"
+                    - text: "24"
+                - link "Dream Beauty Fashion Floral Print Peplum Top Dream Beauty Fashion Floral Print Peplum Top Rs. 269Rs. 999(73% OFF)" [ref=e418] [cursor=pointer]:
+                  - /url: tops/dream+beauty+fashion/dream-beauty-fashion-floral-print-peplum-top/38220646/buy
+                  - img "Dream Beauty Fashion Floral Print Peplum Top" [ref=e424]
+                  - generic [ref=e425]:
+                    - heading "Dream Beauty Fashion" [level=3] [ref=e426]
+                    - heading "Floral Print Peplum Top" [level=4] [ref=e427]
+                    - generic [ref=e428]:
+                      - generic [ref=e429]:
+                        - generic [ref=e430]: Rs. 269
+                        - generic [ref=e431]: Rs. 999
+                      - text: (73% OFF)
+              - listitem [ref=e432]:
+                - generic [ref=e433]:
+                  - generic [ref=e434]: "4.5"
+                  - generic [ref=e436]:
+                    - generic [ref=e437]: "|"
+                    - text: 4.3k
+                - link "Jockey Super Combed Cotton Three Quarter Sleeve Thermal Top with StayWarm Technology -2503 Jockey Cotton Rich Thermal Top Rs. 609" [ref=e438] [cursor=pointer]:
+                  - /url: thermal-tops/jockey/jockey-super-combed-cotton-three-quarter-sleeve-thermal-top-with-staywarm-technology--2503/15019116/buy
+                  - img "Jockey Super Combed Cotton Three Quarter Sleeve Thermal Top with StayWarm Technology -2503" [ref=e444]
+                  - generic [ref=e445]:
+                    - heading "Jockey" [level=3] [ref=e446]
+                    - heading "Cotton Rich Thermal Top" [level=4] [ref=e447]
+                    - generic [ref=e449]: Rs. 609
+              - listitem [ref=e450]:
+                - generic [ref=e451]:
+                  - generic [ref=e452]: "3.8"
+                  - generic [ref=e454]:
+                    - generic [ref=e455]: "|"
+                    - text: "13"
+                - generic [ref=e456]: AD
+                - link "SFOTY Applique Tank Top Rs. 428Rs. 999(57% OFF)" [ref=e457] [cursor=pointer]:
+                  - /url: tops/sfoty/sfoty-ribbed-applique-tank-top/36738512/buy
+                  - generic [ref=e462]:
+                    - heading "SFOTY" [level=3] [ref=e463]
+                    - heading "Applique Tank Top" [level=4] [ref=e464]
+                    - generic [ref=e465]:
+                      - generic [ref=e466]:
+                        - generic [ref=e467]: Rs. 428
+                        - generic [ref=e468]: Rs. 999
+                      - text: (57% OFF)
+              - listitem [ref=e469]:
+                - generic [ref=e470]:
+                  - generic [ref=e471]: "4.3"
+                  - generic [ref=e473]:
+                    - generic [ref=e474]: "|"
+                    - text: 13.1k
+                - link "CORSICA Indie Floral Printed Vest Rs. 251Rs. 1399(82% OFF)" [ref=e475] [cursor=pointer]:
+                  - /url: tops/corsica/corsica-indie-floral-printed-vest/32043469/buy
+                  - generic [ref=e480]:
+                    - heading "CORSICA" [level=3] [ref=e481]
+                    - heading "Indie Floral Printed Vest" [level=4] [ref=e482]
+                    - generic [ref=e483]:
+                      - generic [ref=e484]:
+                        - generic [ref=e485]: Rs. 251
+                        - generic [ref=e486]: Rs. 1399
+                      - text: (82% OFF)
+              - listitem [ref=e487]:
+                - link "Roadster Printed Shirt Style Top Rs. 799Rs. 1999(60% OFF)" [ref=e488] [cursor=pointer]:
+                  - /url: tops/roadster/the-roadster-lifestyle-co-abstract-printed-shirt-style-top/39106414/buy
+                  - generic [ref=e493]:
+                    - heading "Roadster" [level=3] [ref=e494]
+                    - heading "Printed Shirt Style Top" [level=4] [ref=e495]
+                    - generic [ref=e496]:
+                      - generic [ref=e497]:
+                        - generic [ref=e498]: Rs. 799
+                        - generic [ref=e499]: Rs. 1999
+                      - text: (60% OFF)
+              - listitem [ref=e500]:
+                - generic [ref=e501]:
+                  - generic [ref=e502]: "4.5"
+                  - generic [ref=e504]:
+                    - generic [ref=e505]: "|"
+                    - text: "244"
+                - generic [ref=e506]: AD
+                - link "DAMENSCH Round Neck Thermal Top Rs. 699Rs. 999(30% OFF)" [ref=e507] [cursor=pointer]:
+                  - /url: thermal-tops/damensch/damensch-men-cotton-round-neck-long-sleeve-thermal-top/37230221/buy
+                  - generic [ref=e512]:
+                    - heading "DAMENSCH" [level=3] [ref=e513]
+                    - heading "Round Neck Thermal Top" [level=4] [ref=e514]
+                    - generic [ref=e515]:
+                      - generic [ref=e516]:
+                        - generic [ref=e517]: Rs. 699
+                        - generic [ref=e518]: Rs. 999
+                      - text: (30% OFF)
+              - listitem [ref=e519]:
+                - generic [ref=e520]:
+                  - generic [ref=e521]: "4.2"
+                  - generic [ref=e523]:
+                    - generic [ref=e524]: "|"
+                    - text: "25"
+                - link "H&M Long-Sleeved Top Rs. 599" [ref=e525] [cursor=pointer]:
+                  - /url: tops/h%26m/hm-long-sleeved-top/38371114/buy
+                  - generic [ref=e530]:
+                    - heading "H&M" [level=3] [ref=e531]
+                    - heading "Long-Sleeved Top" [level=4] [ref=e532]
+                    - generic [ref=e534]: Rs. 599
+              - listitem [ref=e535]:
+                - generic [ref=e536]:
+                  - generic [ref=e537]: "4.2"
+                  - generic [ref=e539]:
+                    - generic [ref=e540]: "|"
+                    - text: "823"
+                - link "ZHOF Embellished Embroidered Top Rs. 499Rs. 1599(69% OFF)" [ref=e541] [cursor=pointer]:
+                  - /url: tops/zhof/zhof-embellished-embroidered-bohemian-cotton-top/37723292/buy
+                  - generic [ref=e546]:
+                    - heading "ZHOF" [level=3] [ref=e547]
+                    - heading "Embellished Embroidered Top" [level=4] [ref=e548]
+                    - generic [ref=e549]:
+                      - generic [ref=e550]:
+                        - generic [ref=e551]: Rs. 499
+                        - generic [ref=e552]: Rs. 1599
+                      - text: (69% OFF)
+              - listitem [ref=e553]:
+                - generic [ref=e554]:
+                  - generic [ref=e555]: "3.7"
+                  - generic [ref=e557]:
+                    - generic [ref=e558]: "|"
+                    - text: "275"
+                - generic [ref=e559]: AD
+                - link "Berrylush Self Design Flared Sleeve Top Rs. 692Rs. 1099(37% OFF)" [ref=e560] [cursor=pointer]:
+                  - /url: tops/berrylush/berrylush-women-self-design-flared-sleeve-top/31922313/buy
+                  - generic [ref=e565]:
+                    - heading "Berrylush" [level=3] [ref=e566]
+                    - heading "Self Design Flared Sleeve Top" [level=4] [ref=e567]
+                    - generic [ref=e568]:
+                      - generic [ref=e569]:
+                        - generic [ref=e570]: Rs. 692
+                        - generic [ref=e571]: Rs. 1099
+                      - text: (37% OFF)
+              - listitem [ref=e572]:
+                - generic [ref=e573]:
+                  - generic [ref=e574]: "4.6"
+                  - generic [ref=e576]:
+                    - generic [ref=e577]: "|"
+                    - text: "886"
+                - link "Jockey Cotton Rich Thermal Tank Top Rs. 479" [ref=e578] [cursor=pointer]:
+                  - /url: thermal-tops/jockey/jockey-super-combed-cotton-rich-thermal-tank-top-with-staywarm-technology--2500/15018906/buy
+                  - generic [ref=e583]:
+                    - heading "Jockey" [level=3] [ref=e584]
+                    - heading "Cotton Rich Thermal Tank Top" [level=4] [ref=e585]
+                    - generic [ref=e587]: Rs. 479
+              - listitem [ref=e588]:
+                - generic [ref=e589]:
+                  - generic [ref=e590]: "4.4"
+                  - generic [ref=e592]:
+                    - generic [ref=e593]: "|"
+                    - text: 2.3k
+                - link "CORSICA Floral Embroidered Top Rs. 299Rs. 1399(79% OFF)" [ref=e594] [cursor=pointer]:
+                  - /url: tops/corsica/corsica-floral-embroidered-crop-top/36076189/buy
+                  - generic [ref=e599]:
+                    - heading "CORSICA" [level=3] [ref=e600]
+                    - heading "Floral Embroidered Top" [level=4] [ref=e601]
+                    - generic [ref=e602]:
+                      - generic [ref=e603]:
+                        - generic [ref=e604]: Rs. 299
+                        - generic [ref=e605]: Rs. 1399
+                      - text: (79% OFF)
+              - listitem [ref=e606]:
+                - generic [ref=e607]:
+                  - generic [ref=e608]: "4.5"
+                  - generic [ref=e610]:
+                    - generic [ref=e611]: "|"
+                    - text: "242"
+                - generic [ref=e612]: AD
+                - link "DAMENSCH Men Ribbed Thermal Top Rs. 649Rs. 999(35% OFF)" [ref=e613] [cursor=pointer]:
+                  - /url: thermal-tops/damensch/damensch-men-ribbed-round-neck-long-sleeve-thermal-top/37230224/buy
+                  - generic [ref=e618]:
+                    - heading "DAMENSCH" [level=3] [ref=e619]
+                    - heading "Men Ribbed Thermal Top" [level=4] [ref=e620]
+                    - generic [ref=e621]:
+                      - generic [ref=e622]:
+                        - generic [ref=e623]: Rs. 649
+                        - generic [ref=e624]: Rs. 999
+                      - text: (35% OFF)
+              - listitem [ref=e625]:
+                - generic [ref=e626]:
+                  - generic [ref=e627]: "4.8"
+                  - generic [ref=e629]:
+                    - generic [ref=e630]: "|"
+                    - text: "14"
+                - link "Ninas 1 Girls Top Rs. 299Rs. 1999(85% OFF)" [ref=e631] [cursor=pointer]:
+                  - /url: tops/ninas/ninas-printed-cotton-high-neck-regular-tops/38943664/buy
+                  - generic [ref=e636]:
+                    - heading "Ninas" [level=3] [ref=e637]
+                    - heading "1 Girls Top" [level=4] [ref=e638]
+                    - generic [ref=e639]:
+                      - generic [ref=e640]:
+                        - generic [ref=e641]: Rs. 299
+                        - generic [ref=e642]: Rs. 1999
+                      - text: (85% OFF)
+              - listitem [ref=e643]:
+                - generic [ref=e644]:
+                  - generic [ref=e645]: "4"
+                  - generic [ref=e647]:
+                    - generic [ref=e648]: "|"
+                    - text: "903"
+                - link "TRAQUILA Ribbed Boat Neck Top Rs. 352Rs. 2499(86% OFF)" [ref=e649] [cursor=pointer]:
+                  - /url: tops/traquila/traquila-ribbed-flared-sleeves-boat-neck-top/36832448/buy
+                  - generic [ref=e654]:
+                    - heading "TRAQUILA" [level=3] [ref=e655]
+                    - heading "Ribbed Boat Neck Top" [level=4] [ref=e656]
+                    - generic [ref=e657]:
+                      - generic [ref=e658]:
+                        - generic [ref=e659]: Rs. 352
+                        - generic [ref=e660]: Rs. 2499
+                      - text: (86% OFF)
+              - listitem [ref=e661]:
+                - generic [ref=e662]:
+                  - generic [ref=e663]: "4.5"
+                  - generic [ref=e665]:
+                    - generic [ref=e666]: "|"
+                    - text: "240"
+                - generic [ref=e667]: AD
+                - link "DAMENSCH Round Neck Thermal Top Rs. 699Rs. 999(30% OFF)" [ref=e668] [cursor=pointer]:
+                  - /url: thermal-tops/damensch/damensch-men-round-neck-long-sleeve-thermal-top--/37230223/buy
+                  - generic [ref=e673]:
+                    - heading "DAMENSCH" [level=3] [ref=e674]
+                    - heading "Round Neck Thermal Top" [level=4] [ref=e675]
+                    - generic [ref=e676]:
+                      - generic [ref=e677]:
+                        - generic [ref=e678]: Rs. 699
+                        - generic [ref=e679]: Rs. 999
+                      - text: (30% OFF)
+              - listitem [ref=e680]:
+                - generic [ref=e681]:
+                  - generic [ref=e682]: "3.9"
+                  - generic [ref=e684]:
+                    - generic [ref=e685]: "|"
+                    - text: "21"
+                - link "Pantaloons Junior Girls Printed Cotton Top Rs. 643Rs. 699(8% OFF)" [ref=e686] [cursor=pointer]:
+                  - /url: tops/pantaloons+junior/pantaloons-junior-girls-printed-cotton-flutter-sleeves-top/33635881/buy
+                  - generic [ref=e691]:
+                    - heading "Pantaloons Junior" [level=3] [ref=e692]
+                    - heading "Girls Printed Cotton Top" [level=4] [ref=e693]
+                    - generic [ref=e694]:
+                      - generic [ref=e695]:
+                        - generic [ref=e696]: Rs. 643
+                        - generic [ref=e697]: Rs. 699
+                      - text: (8% OFF)
+              - listitem [ref=e698]:
+                - generic [ref=e699]:
+                  - generic [ref=e700]: "3.9"
+                  - generic [ref=e702]:
+                    - generic [ref=e703]: "|"
+                    - text: "828"
+                - link "DressBerry Round Neck Fitted Crop Top Rs. 442Rs. 1599(72% OFF)" [ref=e704] [cursor=pointer]:
+                  - /url: tops/dressberry/dressberry-women-round-neck-fitted-crop-top/32588600/buy
+                  - generic [ref=e709]:
+                    - heading "DressBerry" [level=3] [ref=e710]
+                    - heading "Round Neck Fitted Crop Top" [level=4] [ref=e711]
+                    - generic [ref=e712]:
+                      - generic [ref=e713]:
+                        - generic [ref=e714]: Rs. 442
+                        - generic [ref=e715]: Rs. 1599
+                      - text: (72% OFF)
+              - listitem [ref=e716]:
+                - generic [ref=e717]:
+                  - generic [ref=e718]: "4.7"
+                  - generic [ref=e720]:
+                    - generic [ref=e721]: "|"
+                    - text: "123"
+                - generic [ref=e722]: AD
+                - link "CAVA Brown Silhouette Zip Top Rs. 917Rs. 1699(Rs. 782 OFF) Only Few Left!" [ref=e723] [cursor=pointer]:
+                  - /url: tops/cava/cava-women-brown-silhouette-zip-top/34518011/buy
+                  - generic [ref=e728]:
+                    - heading "CAVA" [level=3] [ref=e729]
+                    - heading "Brown Silhouette Zip Top" [level=4] [ref=e730]
+                    - generic [ref=e731]:
+                      - generic [ref=e732]:
+                        - generic [ref=e733]: Rs. 917
+                        - generic [ref=e734]: Rs. 1699
+                      - text: (Rs. 782 OFF)
+                    - generic [ref=e735]: Only Few Left!
+              - listitem [ref=e736]:
+                - generic [ref=e737]:
+                  - generic [ref=e738]: "4.3"
+                  - generic [ref=e740]:
+                    - generic [ref=e741]: "|"
+                    - text: "29"
+                - link "DMP FASHION Striped Top Rs. 359Rs. 1499(76% OFF)" [ref=e742] [cursor=pointer]:
+                  - /url: tops/dmp+fashion/dmp-fashion-striped-cotton-longline-top/33724961/buy
+                  - generic [ref=e747]:
+                    - heading "DMP FASHION" [level=3] [ref=e748]
+                    - heading "Striped Top" [level=4] [ref=e749]
+                    - generic [ref=e750]:
+                      - generic [ref=e751]:
+                        - generic [ref=e752]: Rs. 359
+                        - generic [ref=e753]: Rs. 1499
+                      - text: (76% OFF)
+              - listitem [ref=e754]:
+                - link "NAVRAAH Top Solid Rs. 999 Only Few Left!" [ref=e755] [cursor=pointer]:
+                  - /url: tops/navraah/navraah-cotton-crop-top/39523305/buy
+                  - generic [ref=e760]:
+                    - heading "NAVRAAH" [level=3] [ref=e761]
+                    - heading "Top Solid" [level=4] [ref=e762]
+                    - generic [ref=e764]: Rs. 999
+                    - generic [ref=e765]: Only Few Left!
+              - listitem [ref=e766]:
+                - generic [ref=e767]:
+                  - generic [ref=e768]: "4.2"
+                  - generic [ref=e770]:
+                    - generic [ref=e771]: "|"
+                    - text: "340"
+                - generic [ref=e772]: AD
+                - link "ADDYVERO Shoulder Straps Crop Top Rs. 391Rs. 1349(71% OFF) Only Few Left!" [ref=e773] [cursor=pointer]:
+                  - /url: tops/addyvero/addyvero-shoulder-straps-crop-top/28000206/buy
+                  - generic [ref=e778]:
+                    - heading "ADDYVERO" [level=3] [ref=e779]
+                    - heading "Shoulder Straps Crop Top" [level=4] [ref=e780]
+                    - generic [ref=e781]:
+                      - generic [ref=e782]:
+                        - generic [ref=e783]: Rs. 391
+                        - generic [ref=e784]: Rs. 1349
+                      - text: (71% OFF)
+                    - generic [ref=e785]: Only Few Left!
+              - listitem [ref=e786]:
+                - link "Aura Glam Girls Puff Sleeves Top Rs. 213Rs. 999(79% OFF)" [ref=e787] [cursor=pointer]:
+                  - /url: tops/aura+glam/aura-glam-girls-cotton-blend-tops/38984806/buy
+                  - generic [ref=e792]:
+                    - heading "Aura Glam" [level=3] [ref=e793]
+                    - heading "Girls Puff Sleeves Top" [level=4] [ref=e794]
+                    - generic [ref=e795]:
+                      - generic [ref=e796]:
+                        - generic [ref=e797]: Rs. 213
+                        - generic [ref=e798]: Rs. 999
+                      - text: (79% OFF)
+              - listitem [ref=e799]:
+                - generic [ref=e800]:
+                  - generic [ref=e801]: "4.6"
+                  - generic [ref=e803]:
+                    - generic [ref=e804]: "|"
+                    - text: "20"
+                - link "Pantaloons Junior Girls Sequined Embellished Top Rs. 599Rs. 799(25% OFF)" [ref=e805] [cursor=pointer]:
+                  - /url: tops/pantaloons+junior/pantaloons-junior-girls-sequined-embellished-top/35290010/buy
+                  - generic [ref=e810]:
+                    - heading "Pantaloons Junior" [level=3] [ref=e811]
+                    - heading "Girls Sequined Embellished Top" [level=4] [ref=e812]
+                    - generic [ref=e813]:
+                      - generic [ref=e814]:
+                        - generic [ref=e815]: Rs. 599
+                        - generic [ref=e816]: Rs. 799
+                      - text: (25% OFF)
+              - listitem [ref=e817]:
+                - generic [ref=e818]:
+                  - generic [ref=e819]: "4.5"
+                  - generic [ref=e821]:
+                    - generic [ref=e822]: "|"
+                    - text: "191"
+                - generic [ref=e823]: AD
+                - link "CAVA High Neck Fitted Crop Top Rs. 951Rs. 1699(Rs. 748 OFF) Only Few Left!" [ref=e824] [cursor=pointer]:
+                  - /url: tops/cava/cava-obsidian-black-silhouette-zip-top/26667038/buy
+                  - generic [ref=e829]:
+                    - heading "CAVA" [level=3] [ref=e830]
+                    - heading "High Neck Fitted Crop Top" [level=4] [ref=e831]
+                    - generic [ref=e832]:
+                      - generic [ref=e833]:
+                        - generic [ref=e834]: Rs. 951
+                        - generic [ref=e835]: Rs. 1699
+                      - text: (Rs. 748 OFF)
+                    - generic [ref=e836]: Only Few Left!
+              - listitem [ref=e837]:
+                - generic [ref=e838]:
+                  - generic [ref=e839]: "4.5"
+                  - generic [ref=e841]:
+                    - generic [ref=e842]: "|"
+                    - text: "576"
+                - link "DIXCY SCOTT Ribbed Thermal Tops Rs. 332Rs. 665(50% OFF)" [ref=e843] [cursor=pointer]:
+                  - /url: thermal-tops/dixcy+scott/dixcy-scott-originals-v-neck-4-way-stretch-ribbed-thermal-tops/24715402/buy
+                  - generic [ref=e848]:
+                    - heading "DIXCY SCOTT" [level=3] [ref=e849]
+                    - heading "Ribbed Thermal Tops" [level=4] [ref=e850]
+                    - generic [ref=e851]:
+                      - generic [ref=e852]:
+                        - generic [ref=e853]: Rs. 332
+                        - generic [ref=e854]: Rs. 665
+                      - text: (50% OFF)
+              - listitem [ref=e855]:
+                - generic [ref=e856]:
+                  - generic [ref=e857]: "3.9"
+                  - generic [ref=e859]:
+                    - generic [ref=e860]: "|"
+                    - text: "835"
+                - link "Istyle Can Women Solid Crop Top Rs. 296Rs. 999(70% OFF)" [ref=e861] [cursor=pointer]:
+                  - /url: tops/istyle+can/istyle-can-women-solid-off-shoulder-top/32693903/buy
+                  - generic [ref=e866]:
+                    - heading "Istyle Can" [level=3] [ref=e867]
+                    - heading "Women Solid Crop Top" [level=4] [ref=e868]
+                    - generic [ref=e869]:
+                      - generic [ref=e870]:
+                        - generic [ref=e871]: Rs. 296
+                        - generic [ref=e872]: Rs. 999
+                      - text: (70% OFF)
+              - listitem [ref=e873]:
+                - generic [ref=e874]:
+                  - generic [ref=e875]: "4.1"
+                  - generic [ref=e877]:
+                    - generic [ref=e878]: "|"
+                    - text: "57"
+                - generic [ref=e879]: AD
+                - link "SZN Print Top Rs. 495Rs. 999(Rs. 504 OFF)" [ref=e880] [cursor=pointer]:
+                  - /url: tops/szn/szn-print-ethnic-top/38187895/buy
+                  - generic [ref=e885]:
+                    - heading "SZN" [level=3] [ref=e886]
+                    - heading "Print Top" [level=4] [ref=e887]
+                    - generic [ref=e888]:
+                      - generic [ref=e889]:
+                        - generic [ref=e890]: Rs. 495
+                        - generic [ref=e891]: Rs. 999
+                      - text: (Rs. 504 OFF)
+              - listitem [ref=e892]:
+                - link "DMP FASHION Girls Printed Tie-Up Neck Top Rs. 359Rs. 1499(76% OFF)" [ref=e893] [cursor=pointer]:
+                  - /url: tops/dmp+fashion/dmp-fashion-girls-printed-tie-up-neck-cotton-top/37178042/buy
+                  - generic [ref=e898]:
+                    - heading "DMP FASHION" [level=3] [ref=e899]
+                    - heading "Girls Printed Tie-Up Neck Top" [level=4] [ref=e900]
+                    - generic [ref=e901]:
+                      - generic [ref=e902]:
+                        - generic [ref=e903]: Rs. 359
+                        - generic [ref=e904]: Rs. 1499
+                      - text: (76% OFF)
+              - listitem [ref=e905]:
+                - generic [ref=e906]:
+                  - generic [ref=e907]: "4.3"
+                  - generic [ref=e909]:
+                    - generic [ref=e910]: "|"
+                    - text: 1.5k
+                - link "clobug Square Neck Fitted Crop Top Rs. 456Rs. 1500(Rs. 1044 OFF)" [ref=e911] [cursor=pointer]:
+                  - /url: tops/clobug/clobug-square-neck-net-fitted-crop-top/35020640/buy
+                  - generic [ref=e916]:
+                    - heading "clobug" [level=3] [ref=e917]
+                    - heading "Square Neck Fitted Crop Top" [level=4] [ref=e918]
+                    - generic [ref=e919]:
+                      - generic [ref=e920]:
+                        - generic [ref=e921]: Rs. 456
+                        - generic [ref=e922]: Rs. 1500
+                      - text: (Rs. 1044 OFF)
+              - listitem [ref=e923]:
+                - generic [ref=e924]:
+                  - generic [ref=e925]: "4.3"
+                  - generic [ref=e927]:
+                    - generic [ref=e928]: "|"
+                    - text: "41"
+                - generic [ref=e929]: AD
+                - link "Anouk Rustic Embroidered Bishop Sleeves Top Rs. 395Rs. 1699(Rs. 1304 OFF) Only Few Left!" [ref=e930] [cursor=pointer]:
+                  - /url: tops/anouk+rustic/anouk-rustic-women-geometric-embroidered-bishop-sleeves-ethnic-top/36889977/buy
+                  - generic [ref=e935]:
+                    - heading "Anouk Rustic" [level=3] [ref=e936]
+                    - heading "Embroidered Bishop Sleeves Top" [level=4] [ref=e937]
+                    - generic [ref=e938]:
+                      - generic [ref=e939]:
+                        - generic [ref=e940]: Rs. 395
+                        - generic [ref=e941]: Rs. 1699
+                      - text: (Rs. 1304 OFF)
+                    - generic [ref=e942]: Only Few Left!
+              - listitem [ref=e943]:
+                - generic [ref=e944]:
+                  - generic [ref=e945]: "4.6"
+                  - generic [ref=e947]:
+                    - generic [ref=e948]: "|"
+                    - text: "21"
+                - link "Ninas 1 Girls Top Rs. 299Rs. 1999(85% OFF)" [ref=e949] [cursor=pointer]:
+                  - /url: tops/ninas/ninas-printed-cotton-high-neck-regular-tops/38943652/buy
+                  - generic [ref=e954]:
+                    - heading "Ninas" [level=3] [ref=e955]
+                    - heading "1 Girls Top" [level=4] [ref=e956]
+                    - generic [ref=e957]:
+                      - generic [ref=e958]:
+                        - generic [ref=e959]: Rs. 299
+                        - generic [ref=e960]: Rs. 1999
+                      - text: (85% OFF)
+              - listitem [ref=e961]:
+                - generic [ref=e962]:
+                  - generic [ref=e963]: "1"
+                  - generic [ref=e965]:
+                    - generic [ref=e966]: "|"
+                    - text: "5"
+                - link "Aura Glam Girls Puff Sleeves Top Rs. 213Rs. 999(79% OFF)" [ref=e967] [cursor=pointer]:
+                  - /url: tops/aura+glam/aura-glam-girls-cotton-blend-tops/38984804/buy
+                  - generic [ref=e972]:
+                    - heading "Aura Glam" [level=3] [ref=e973]
+                    - heading "Girls Puff Sleeves Top" [level=4] [ref=e974]
+                    - generic [ref=e975]:
+                      - generic [ref=e976]:
+                        - generic [ref=e977]: Rs. 213
+                        - generic [ref=e978]: Rs. 999
+                      - text: (79% OFF)
+              - listitem [ref=e979]:
+                - generic [ref=e980]: AD
+                - link "Style Quotient Women Solid Formal Tops Rs. 641Rs. 1299(51% OFF)" [ref=e981] [cursor=pointer]:
+                  - /url: tops/style+quotient/style-quotient-peter-pan-collar-flutter-sleeve-ruffles-cotton-top/38917760/buy
+                  - generic [ref=e986]:
+                    - heading "Style Quotient" [level=3] [ref=e987]
+                    - heading "Women Solid Formal Tops" [level=4] [ref=e988]
+                    - generic [ref=e989]:
+                      - generic [ref=e990]:
+                        - generic [ref=e991]: Rs. 641
+                        - generic [ref=e992]: Rs. 1299
+                      - text: (51% OFF)
+              - listitem [ref=e993]:
+                - generic [ref=e994]:
+                  - generic [ref=e995]: "4.4"
+                  - generic [ref=e997]:
+                    - generic [ref=e998]: "|"
+                    - text: "351"
+                - link "Orchid Blues Denim Sleeveless Crop Top Rs. 554Rs. 2699(79% OFF)" [ref=e999] [cursor=pointer]:
+                  - /url: tops/orchid+blues/orchid-blues-cotton-denim-sleeveless--crop-top/27452694/buy
+                  - generic [ref=e1004]:
+                    - heading "Orchid Blues" [level=3] [ref=e1005]
+                    - heading "Denim Sleeveless Crop Top" [level=4] [ref=e1006]
+                    - generic [ref=e1007]:
+                      - generic [ref=e1008]:
+                        - generic [ref=e1009]: Rs. 554
+                        - generic [ref=e1010]: Rs. 2699
+                      - text: (79% OFF)
+              - listitem [ref=e1011]:
+                - link "SZN Ribbed Crop Top Rs. 299Rs. 999(70% OFF)" [ref=e1012] [cursor=pointer]:
+                  - /url: tops/szn/szn-crop-top/39439415/buy
+                  - generic [ref=e1017]:
+                    - heading "SZN" [level=3] [ref=e1018]
+                    - heading "Ribbed Crop Top" [level=4] [ref=e1019]
+                    - generic [ref=e1020]:
+                      - generic [ref=e1021]:
+                        - generic [ref=e1022]: Rs. 299
+                        - generic [ref=e1023]: Rs. 999
+                      - text: (70% OFF)
+              - listitem [ref=e1024]:
+                - generic [ref=e1025]: AD
+                - link "Dora Dori Tropical Print Top Rs. 999Rs. 1999(50% OFF)" [ref=e1026] [cursor=pointer]:
+                  - /url: tops/dora+dori/dora-dori-tropical-print-tropical-top/39116518/buy
+                  - generic [ref=e1031]:
+                    - heading "Dora Dori" [level=3] [ref=e1032]
+                    - heading "Tropical Print Top" [level=4] [ref=e1033]
+                    - generic [ref=e1034]:
+                      - generic [ref=e1035]:
+                        - generic [ref=e1036]: Rs. 999
+                        - generic [ref=e1037]: Rs. 1999
+                      - text: (50% OFF)
+              - listitem [ref=e1038]:
+                - generic [ref=e1039]:
+                  - generic [ref=e1040]: "4.6"
+                  - generic [ref=e1042]:
+                    - generic [ref=e1043]: "|"
+                    - text: "11"
+                - link "Vero Moda Girls Embellished Top Rs. 999Rs. 2499(60% OFF)" [ref=e1044] [cursor=pointer]:
+                  - /url: tops/vero+moda/vero-moda-girls-embellished-top/33174980/buy
+                  - generic [ref=e1049]:
+                    - heading "Vero Moda" [level=3] [ref=e1050]
+                    - heading "Girls Embellished Top" [level=4] [ref=e1051]
+                    - generic [ref=e1052]:
+                      - generic [ref=e1053]:
+                        - generic [ref=e1054]: Rs. 999
+                        - generic [ref=e1055]: Rs. 2499
+                      - text: (60% OFF)
+              - listitem [ref=e1056]:
+                - generic [ref=e1057]:
+                  - generic [ref=e1058]: "4.6"
+                  - generic [ref=e1060]:
+                    - generic [ref=e1061]: "|"
+                    - text: "18"
+                - link "StyleCast x Revolte Halter Neck Tube Top Rs. 818Rs. 1949(58% OFF)" [ref=e1062] [cursor=pointer]:
+                  - /url: tops/stylecast+x+revolte/stylecast-x-revolte-halter-neck-pu-coated-tube-crop-top/32348992/buy
+                  - generic [ref=e1067]:
+                    - heading "StyleCast x Revolte" [level=3] [ref=e1068]
+                    - heading "Halter Neck Tube Top" [level=4] [ref=e1069]
+                    - generic [ref=e1070]:
+                      - generic [ref=e1071]:
+                        - generic [ref=e1072]: Rs. 818
+                        - generic [ref=e1073]: Rs. 1949
+                      - text: (58% OFF)
+              - listitem [ref=e1074]:
+                - generic [ref=e1075]:
+                  - generic [ref=e1076]: "4.5"
+                  - generic [ref=e1078]:
+                    - generic [ref=e1079]: "|"
+                    - text: "249"
+                - generic [ref=e1080]: AD
+                - link "DAMENSCH Round Neck Thermal Top Rs. 849Rs. 999(15% OFF) Only Few Left!" [ref=e1081] [cursor=pointer]:
+                  - /url: thermal-tops/damensch/damensch-men-round-neck-long-sleeve-thermal-top/37230222/buy
+                  - generic [ref=e1086]:
+                    - heading "DAMENSCH" [level=3] [ref=e1087]
+                    - heading "Round Neck Thermal Top" [level=4] [ref=e1088]
+                    - generic [ref=e1089]:
+                      - generic [ref=e1090]:
+                        - generic [ref=e1091]: Rs. 849
+                        - generic [ref=e1092]: Rs. 999
+                      - text: (15% OFF)
+                    - generic [ref=e1093]: Only Few Left!
+              - listitem [ref=e1094]:
+                - link "Aura Glam Girls Cotton Blend Tops Rs. 342Rs. 1999(83% OFF)" [ref=e1095] [cursor=pointer]:
+                  - /url: tops/aura+glam/aura-glam-girls-cotton-blend-tops/38985483/buy
+                  - generic [ref=e1100]:
+                    - heading "Aura Glam" [level=3] [ref=e1101]
+                    - heading "Girls Cotton Blend Tops" [level=4] [ref=e1102]
+                    - generic [ref=e1103]:
+                      - generic [ref=e1104]:
+                        - generic [ref=e1105]: Rs. 342
+                        - generic [ref=e1106]: Rs. 1999
+                      - text: (83% OFF)
+              - listitem [ref=e1107]:
+                - generic [ref=e1108]:
+                  - generic [ref=e1109]: "4.5"
+                  - generic [ref=e1111]:
+                    - generic [ref=e1112]: "|"
+                    - text: 3.3k
+                - link "Jockey Cotton Rich Thermal Topwear Rs. 779" [ref=e1113] [cursor=pointer]:
+                  - /url: thermal-tops/jockey/jockey-super-combed-cotton-full-sleeve-thermal-undershirt-with-stay-warm-technology-2401/14981114/buy
+                  - generic [ref=e1118]:
+                    - heading "Jockey" [level=3] [ref=e1119]
+                    - heading "Cotton Rich Thermal Topwear" [level=4] [ref=e1120]
+                    - generic [ref=e1122]: Rs. 779
+              - listitem [ref=e1123]
+              - listitem [ref=e1124]
+              - listitem
+              - listitem
+              - listitem
+            - list [ref=e1126]:
+              - listitem: Page 1
+              - listitem: Previous
+              - listitem [ref=e1127]: Page 1 of 4560
+              - listitem [ref=e1128] [cursor=pointer]: Next
+            - generic [ref=e1132]:
+              - generic [ref=e1133]: Similar Products
+              - generic [ref=e1135] [cursor=pointer]: ✕
+    - paragraph [ref=e1139] [cursor=pointer]: UPTO ₹300 OFF
+  - contentinfo [ref=e1143]:
+    - generic [ref=e1145]:
+      - generic [ref=e1146]:
+        - heading "Tops Online price list" [level=2] [ref=e1147]
+        - table [ref=e1148]:
+          - rowgroup [ref=e1149]:
+            - row "Tops Online PRICE (RS)" [ref=e1150]:
+              - columnheader "Tops Online" [ref=e1151]
+              - columnheader "PRICE (RS)" [ref=e1152]
+          - rowgroup [ref=e1153]:
+            - row "Aura Glam Girls Cotton Blend Tops Rs. 213" [ref=e1154]:
+              - cell "Aura Glam Girls Cotton Blend Tops" [ref=e1155]:
+                - link "Aura Glam Girls Cotton Blend Tops" [ref=e1156] [cursor=pointer]:
+                  - /url: tops/aura+glam/aura-glam-girls-cotton-blend-tops/38984808/buy
+              - cell "Rs. 213" [ref=e1157]
+            - row "Alexvyan Winter Warm Fleece Inside Narrow Strap-Slim Fit Thermal Camisole Rs. 480" [ref=e1158]:
+              - cell "Alexvyan Winter Warm Fleece Inside Narrow Strap-Slim Fit Thermal Camisole" [ref=e1159]:
+                - link "Alexvyan Winter Warm Fleece Inside Narrow Strap-Slim Fit Thermal Camisole" [ref=e1160] [cursor=pointer]:
+                  - /url: thermal-tops/alexvyan/alexvyan-winter-warm-fleece-inside-narrow-strap-slim-fit-thermal-camisole/26040904/buy
+              - cell "Rs. 480" [ref=e1161]
+            - row "Decathlon WEDZE - Men Black Solid Skiing And Snowboarding Thermal Top Rs. 699" [ref=e1162]:
+              - cell "Decathlon WEDZE - Men Black Solid Skiing And Snowboarding Thermal Top" [ref=e1163]:
+                - link "Decathlon WEDZE - Men Black Solid Skiing And Snowboarding Thermal Top" [ref=e1164] [cursor=pointer]:
+                  - /url: thermal-tops/decathlon/decathlon-wedze---men-black-solid-skiing-and-snowboarding-thermal-top/14937456/buy
+              - cell "Rs. 699" [ref=e1165]
+            - row "Decathlon WEDZE Women Black Solid Thermal Tops Rs. 699" [ref=e1166]:
+              - cell "Decathlon WEDZE Women Black Solid Thermal Tops" [ref=e1167]:
+                - link "Decathlon WEDZE Women Black Solid Thermal Tops" [ref=e1168] [cursor=pointer]:
+                  - /url: thermal-tops/decathlon/decathlon-wedze-women-black-solid-thermal-tops/14938238/buy
+              - cell "Rs. 699" [ref=e1169]
+            - row "Alexvyan Winter Warm Fleece Inside Slim Fit Thermal Camisole Rs. 475" [ref=e1170]:
+              - cell "Alexvyan Winter Warm Fleece Inside Slim Fit Thermal Camisole" [ref=e1171]:
+                - link "Alexvyan Winter Warm Fleece Inside Slim Fit Thermal Camisole" [ref=e1172] [cursor=pointer]:
+                  - /url: thermal-tops/alexvyan/alexvyan-winter-warm-fleece-inside-slim-fit-thermal-camisole/26040892/buy
+              - cell "Rs. 475" [ref=e1173]
+            - row "DIXCY SCOTT Originals 4-Way Stretch Ribbed Thermal Tops Rs. 332" [ref=e1174]:
+              - cell "DIXCY SCOTT Originals 4-Way Stretch Ribbed Thermal Tops" [ref=e1175]:
+                - link "DIXCY SCOTT Originals 4-Way Stretch Ribbed Thermal Tops" [ref=e1176] [cursor=pointer]:
+                  - /url: thermal-tops/dixcy+scott/dixcy-scott-originals--4-way-stretch-ribbed-thermal-tops/24715414/buy
+              - cell "Rs. 332" [ref=e1177]
+            - row "Dream Beauty Fashion Floral Print Peplum Top Rs. 269" [ref=e1178]:
+              - cell "Dream Beauty Fashion Floral Print Peplum Top" [ref=e1179]:
+                - link "Dream Beauty Fashion Floral Print Peplum Top" [ref=e1180] [cursor=pointer]:
+                  - /url: tops/dream+beauty+fashion/dream-beauty-fashion-floral-print-peplum-top/38220646/buy
+              - cell "Rs. 269" [ref=e1181]
+            - row "Jockey Super Combed Cotton Three Quarter Sleeve Thermal Top with StayWarm Technology -2503 Rs. 609" [ref=e1182]:
+              - cell "Jockey Super Combed Cotton Three Quarter Sleeve Thermal Top with StayWarm Technology -2503" [ref=e1183]:
+                - link "Jockey Super Combed Cotton Three Quarter Sleeve Thermal Top with StayWarm Technology -2503" [ref=e1184] [cursor=pointer]:
+                  - /url: thermal-tops/jockey/jockey-super-combed-cotton-three-quarter-sleeve-thermal-top-with-staywarm-technology--2503/15019116/buy
+              - cell "Rs. 609" [ref=e1185]
+            - row "CORSICA Indie Floral Printed Vest Rs. 251" [ref=e1186]:
+              - cell "CORSICA Indie Floral Printed Vest" [ref=e1187]:
+                - link "CORSICA Indie Floral Printed Vest" [ref=e1188] [cursor=pointer]:
+                  - /url: tops/corsica/corsica-indie-floral-printed-vest/32043469/buy
+              - cell "Rs. 251" [ref=e1189]
+            - row "The Roadster Lifestyle Co Abstract Printed Shirt Style Top Rs. 799" [ref=e1190]:
+              - cell "The Roadster Lifestyle Co Abstract Printed Shirt Style Top" [ref=e1191]:
+                - link "The Roadster Lifestyle Co Abstract Printed Shirt Style Top" [ref=e1192] [cursor=pointer]:
+                  - /url: tops/roadster/the-roadster-lifestyle-co-abstract-printed-shirt-style-top/39106414/buy
+              - cell "Rs. 799" [ref=e1193]
+        - generic [ref=e1194]: Data last updated on 27/01/2026
+      - heading "buy Tops Online" [level=2] [ref=e1195]
+      - generic [ref=e1196]:
+        - heading "Dress to Impress with Casual Tops for Women on Myntra" [level=2] [ref=e1197]:
+          - strong [ref=e1198]: Dress to Impress with Casual Tops for Women on Myntra
+        - paragraph [ref=e1199]: Something is exhilarating about a smart fitting top when it comes to casual dressing. The right style can instantly elevate an outfit and make you look that much more chic and polished. Whether it is the fluttery sleeves made popular by the French girl style or the structured power shoulder sleeve, tops give us ample room to create new looks and play around with interesting fits.
+        - paragraph [ref=e1200]: Myntra is home to some of the most on-trend top styles of the season. You can browse, filter, and shop by your favourite global and domestic brands at the price you are willing to pay.
+        - heading "Trendy Tops for Women on Myntra" [level=3] [ref=e1201]:
+          - strong [ref=e1202]: Trendy Tops for Women on Myntra
+        - paragraph [ref=e1203]: "There are several tops online that are worth having in your wardrobe. Here are a few of the classic styles you can check out:"
+        - paragraph [ref=e1204]:
+          - strong [ref=e1205]: "Tank:"
+          - link "Tank tops" [ref=e1206] [cursor=pointer]:
+            - /url: /tank-tops
+          - text: are usually made from cotton and elastane blends. It is designed to act as an undershirt with transparent tops and dresses. The pieces are also great for layering during the winter months.
+        - paragraph [ref=e1207]:
+          - strong [ref=e1208]: "Spaghetti:"
+          - text: Alternatively called noodle-strap,
+          - link "spaghetti tops" [ref=e1209] [cursor=pointer]:
+            - /url: /spaghetti-tops
+          - text: are fun to play around with and can be styled with shorts, jeans, and skirts. You can shop for unique cuts and styles that feature ties.
+        - paragraph [ref=e1210]:
+          - strong [ref=e1211]: "Woollen:"
+          - text: These are designed to keep you warm during the colder months. Thermal
+          - link "woollen tops" [ref=e1212] [cursor=pointer]:
+            - /url: /woolen-tops
+          - text: are constructed from soft materials that hold onto body heat remarkably well.
+        - paragraph [ref=e1213]:
+          - strong [ref=e1214]: "Full-Sleeve:"
+          - link "Full-sleeve tops" [ref=e1215] [cursor=pointer]:
+            - /url: /full-sleeve-tops
+          - text: are great for transition seasons as well as layering for the winter. Find styles that feature turtle necks, crew cuts, scoop necklines and more on Myntra.
+        - paragraph [ref=e1216]:
+          - strong [ref=e1217]: "Ruffle:"
+          - link "Ruffle tops" [ref=e1218] [cursor=pointer]:
+            - /url: /ruffle-tops
+          - text: can be styled all year round contrary to popular belief that the style is meant primarily for the spring season. Explore styles with ruffled hemlines, sleeves and asymmetrical details.
+        - paragraph [ref=e1219]:
+          - strong [ref=e1220]: "Puff-Sleeve:"
+          - text: The uber stylish and 60’s inspired feminine style is a great way to add drama to a simple outfit. Shop for styles with exaggerated or muted puffs sleeves and experiment with colourful prints.
+        - heading "Guide to Styling Women’s Tops on Myntra" [level=3] [ref=e1221]:
+          - strong [ref=e1222]: Guide to Styling Women’s Tops on Myntra
+        - paragraph [ref=e1223]:
+          - text: Here are a few fun ways to dress up (or down)
+          - link "women’s tops" [ref=e1224] [cursor=pointer]:
+            - /url: /women-shirts-tops-tees
+          - text: "from Myntra:"
+        - list [ref=e1225]:
+          - listitem [ref=e1226]: For a day at the workplace, opt for structured tops in monochromatic pastels tucked into pants or pencil skirts. Ditch the blacks, browns and greys for a change.
+          - listitem [ref=e1227]: Another style that you can incorporate into your wardrobe is the ruffled top. These look uber chic when tucked into some straight fit cigarette pants or even boot cut trousers. Add on a blazer and an infinity scarf for some warmth.
+          - listitem [ref=e1228]: Style exaggerated puff-sleeved tops with form-fitting mom jeans to keep the look balanced. Add a small sling bag with a chunky handle for some interest.
+          - listitem [ref=e1229]: Style spaghetti tops under sheer shirts for better coverage.
+          - listitem [ref=e1230]: Pair crop tops with high-waisted bottoms. This creates the illusion of longer legs, making you appear significantly taller than you are.
+        - heading "Shop Tops for Women Online on Myntra" [level=3] [ref=e1231]:
+          - strong [ref=e1232]: Shop Tops for Women Online on Myntra
+        - paragraph [ref=e1233]: Myntra acknowledges a woman’s need to experiment with different tops and styles like no other online platform. In addition to apparel for men, women and children, you can browse through makeup, daily essentials and home decor items on Myntra. Experience free shipping, prompt deliveries, and easy returns in a generous window of 30 days. Indulge in 100% authentic brands and create unique looks with different top styles on Myntra.
+        - heading "Other Categories" [level=2] [ref=e1234]:
+          - strong [ref=e1235]: Other Categories
+        - paragraph [ref=e1236]:
+          - link "Sarees" [ref=e1237] [cursor=pointer]:
+            - /url: /saree
+          - text: ","
+          - link "Blouse Designs" [ref=e1238] [cursor=pointer]:
+            - /url: /saree-blouse
+          - text: ","
+          - link "Dresses" [ref=e1239] [cursor=pointer]:
+            - /url: /dresses
+          - text: ","
+          - link "Ethnic Wear" [ref=e1240] [cursor=pointer]:
+            - /url: /ethnic-wear
+          - text: ","
+          - link "Lehenga" [ref=e1241] [cursor=pointer]:
+            - /url: /lehenga-choli
+          - text: ","
+          - link "Kurtas" [ref=e1242] [cursor=pointer]:
+            - /url: /kurtas
+          - text: ","
+          - link "Women Jeans" [ref=e1243] [cursor=pointer]:
+            - /url: /women-jeans
+        - paragraph [ref=e1244]:
+          - strong [ref=e1245]: "SHOP BY BRAND:"
+        - paragraph [ref=e1246]:
+          - link "Biba" [ref=e1247] [cursor=pointer]:
+            - /url: https://www.myntra.com/biba
+          - text: "|"
+          - link "Global Desi" [ref=e1248] [cursor=pointer]:
+            - /url: https://www.myntra.com/global-desi
+          - text: "|"
+          - link "Urbanic" [ref=e1249] [cursor=pointer]:
+            - /url: https://www.myntra.com/urbanic
+          - text: "|"
+          - link "Dressberry" [ref=e1250] [cursor=pointer]:
+            - /url: https://www.myntra.com/dressberry
+          - text: "|"
+          - link "Sassafras" [ref=e1251] [cursor=pointer]:
+            - /url: https://www.myntra.com/sassafras
+          - text: "|"
+          - link "Soch" [ref=e1252] [cursor=pointer]:
+            - /url: https://www.myntra.com/soch
+          - text: "|"
+          - link "Libas" [ref=e1253] [cursor=pointer]:
+            - /url: https://www.myntra.com/libas
+          - text: "|"
+          - link "W" [ref=e1254] [cursor=pointer]:
+            - /url: https://www.myntra.com/w
+          - text: "|"
+          - link "Koskii" [ref=e1255] [cursor=pointer]:
+            - /url: https://www.myntra.com/koskii
+          - text: "|"
+          - link "Nalli" [ref=e1256] [cursor=pointer]:
+            - /url: https://www.myntra.com/nalli
+          - text: "|"
+          - link "Karagiri" [ref=e1257] [cursor=pointer]:
+            - /url: https://www.myntra.com/karagiri
+          - text: "|"
+          - link "Pothys" [ref=e1258] [cursor=pointer]:
+            - /url: https://www.myntra.com/pothys
+          - text: "|"
+          - link "H&M" [ref=e1259] [cursor=pointer]:
+            - /url: https://www.myntra.com/h&m
+          - text: "|"
+          - link "Vero Moda" [ref=e1260] [cursor=pointer]:
+            - /url: https://www.myntra.com/vero-moda
+          - text: "|"
+          - link "Calvin Klein" [ref=e1261] [cursor=pointer]:
+            - /url: https://www.myntra.com/calvin-klein
+          - text: "|"
+          - link "Max" [ref=e1262] [cursor=pointer]:
+            - /url: https://www.myntra.com/max
+          - text: "|"
+          - link "Clovia" [ref=e1263] [cursor=pointer]:
+            - /url: https://www.myntra.com/clovia
+          - text: "|"
+          - link "Zivame" [ref=e1264] [cursor=pointer]:
+            - /url: https://www.myntra.com/zivame
+          - text: "|"
+          - link "Sonari" [ref=e1265] [cursor=pointer]:
+            - /url: https://www.myntra.com/sonari
+          - text: "|"
+          - link "Enamor" [ref=e1266] [cursor=pointer]:
+            - /url: https://www.myntra.com/enamor
+          - text: "|"
+          - link "Jockey" [ref=e1267] [cursor=pointer]:
+            - /url: https://www.myntra.com/jockey
+          - text: "|"
+          - link "Forever 21" [ref=e1268] [cursor=pointer]:
+            - /url: https://www.myntra.com/forever-21
+          - text: "|"
+          - link "Nike" [ref=e1269] [cursor=pointer]:
+            - /url: https://www.myntra.com/nike
+          - text: "|"
+          - link "Puma" [ref=e1270] [cursor=pointer]:
+            - /url: https://www.myntra.com/puma
+          - text: "|"
+          - link "Adidas" [ref=e1271] [cursor=pointer]:
+            - /url: https://www.myntra.com/adidas
+          - text: "|"
+          - link "Campus" [ref=e1272] [cursor=pointer]:
+            - /url: https://www.myntra.com/campus
+          - text: "|"
+          - link "Red Tape" [ref=e1273] [cursor=pointer]:
+            - /url: https://www.myntra.com/red-tape
+        - heading "Buy Trendy Tops Online" [level=2] [ref=e1274]
+        - listitem [ref=e1275]:
+          - link "Roadster Women Burgundy Solid High-Low Pure Cotton Top" [ref=e1276] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/roadster/roadster-women-burgundy-solid-high-low-pure-cotton-top/8330217/buy
+        - listitem [ref=e1277]:
+          - link "H&M Black Sequined Corset Top" [ref=e1278] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/hm/hm-black-sequined-corset-top/20982296/buy
+        - listitem [ref=e1279]:
+          - link "Forever 21 Black Victorian Style Bralette Crop Top" [ref=e1280] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/forever-21/forever-21-black-victorian-style-bralette-crop-top/19458016/buy
+        - listitem [ref=e1281]:
+          - link "Dressberry Yellow & Black Print Shirt Style Top" [ref=e1282] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/dressberry/dressberry-yellow--black-print-shirt-style-top/14323566/buy
+        - listitem [ref=e1283]:
+          - link "Tokyo Talkies Black Striped Regular Top" [ref=e1284] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/tokyo-talkies/tokyo-talkies-black-striped-regular-top/15954022/buy
+        - listitem [ref=e1285]:
+          - link "Sassafras Black High Neck Cropped Top" [ref=e1286] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/sassafras/sassafras-black-high-neck-cropped-top/12222036/buy
+        - listitem [ref=e1287]:
+          - link "Vishudh Off White & Blue Geometric Printed Mandarin Collar Empire Top" [ref=e1288] [cursor=pointer]:
+            - /url: https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+        - paragraph [ref=e1289]:
+          - strong [ref=e1290]: "Shop By Price Range:"
+        - table [ref=e1291]:
+          - rowgroup [ref=e1292]:
+            - row "Tops Under 200 Tops Under 300 Tops Under 400" [ref=e1293]:
+              - cell "Tops Under 200" [ref=e1294]:
+                - strong [ref=e1295]:
+                  - link "Tops Under 200" [ref=e1296] [cursor=pointer]:
+                    - /url: https://www.myntra.com/tops-under-200
+              - cell "Tops Under 300" [ref=e1297]:
+                - strong [ref=e1298]:
+                  - link "Tops Under 300" [ref=e1299] [cursor=pointer]:
+                    - /url: https://www.myntra.com/tops-under-300
+              - cell "Tops Under 400" [ref=e1300]:
+                - strong [ref=e1301]:
+                  - link "Tops Under 400" [ref=e1302] [cursor=pointer]:
+                    - /url: https://www.myntra.com/tops-under-400
+            - row "Tops Under 500 Urbanic Tops Under 500 Woolen Tops Under 500" [ref=e1303]:
+              - cell "Tops Under 500" [ref=e1304]:
+                - strong [ref=e1305]:
+                  - link "Tops Under 500" [ref=e1306] [cursor=pointer]:
+                    - /url: https://www.myntra.com/tops-under-500
+              - cell "Urbanic Tops Under 500" [ref=e1307]:
+                - strong [ref=e1308]:
+                  - link "Urbanic Tops Under 500" [ref=e1309] [cursor=pointer]:
+                    - /url: https://www.myntra.com/urbanic-tops-under-500
+              - cell "Woolen Tops Under 500" [ref=e1310]:
+                - strong [ref=e1311]:
+                  - link "Woolen Tops Under 500" [ref=e1312] [cursor=pointer]:
+                    - /url: https://www.myntra.com/woolen-tops-under-500
+        - generic [ref=e1313]:
+          - 'heading "VIDEO: Tops Under 1000 | Myntra | #Shorts" [level=3] [ref=e1314]'
+          - iframe [ref=e1316]:
+            - generic "YouTube Video Player" [ref=f2e3]:
+              - generic [ref=f2e5]:
+                - link "Photo image of Myntra" [ref=f2e8] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCMlJjMRSKaUQhXQ_9XjCGpg?embeds_referring_euri=https%3A%2F%2Fwww.myntra.com%2F
+                - 'link "Tops Under 1000 | Myntra | #Shorts" [ref=f2e11] [cursor=pointer]':
+                  - /url: https://www.youtube.com/watch?v=jwvwWREJffg
+                - button "Share" [ref=f2e13] [cursor=pointer]:
+                  - generic [ref=f2e14]:
+                    - img
+                  - generic [ref=f2e15]: Share
+              - button "Play" [ref=f2e18] [cursor=pointer]:
+                - img
+              - link "Watch on YouTube" [ref=f2e19] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=jwvwWREJffg&embeds_referring_euri=https%3A%2F%2Fwww.myntra.com%2F
+                - generic [ref=f2e20]: Watch on
+                - generic [ref=f2e21]:
+                  - img
+          - paragraph [ref=e1318]: Shopping for trendy tops for women on a budget can seem like a daunting task. But don’t worry, in this short video, we bring to you some cute tops that are guaranteed to elevate your fashion game, no matter what the occasion.
+    - generic [ref=e1319]:
+      - generic [ref=e1320]:
+        - paragraph [ref=e1321]:
+          - link "ONLINE SHOPPING" [ref=e1322] [cursor=pointer]:
+            - /url: /?src=onlineShopping
+        - link "Men" [ref=e1323] [cursor=pointer]:
+          - /url: /shop/men
+        - link "Women" [ref=e1324] [cursor=pointer]:
+          - /url: /shop/women
+        - link "Kids" [ref=e1325] [cursor=pointer]:
+          - /url: /shop/kids
+        - link "Home" [ref=e1326] [cursor=pointer]:
+          - /url: /shop/home-living
+        - link "Beauty" [ref=e1327] [cursor=pointer]:
+          - /url: /personal-care
+        - link "Genz" [ref=e1328] [cursor=pointer]:
+          - /url: /shop/fwd-women
+        - link "Gift Cards" [ref=e1329] [cursor=pointer]:
+          - /url: /giftcard
+        - link "Myntra Insider" [ref=e1330] [cursor=pointer]:
+          - /url: /myntrainsider?cache=false
+        - paragraph [ref=e1331]: USEFUL LINKS
+        - link "Blog" [ref=e1332] [cursor=pointer]:
+          - /url: http://blog.myntra.com/
+        - link "Careers" [ref=e1333] [cursor=pointer]:
+          - /url: https://careers.myntra.com
+        - link "Site Map" [ref=e1334] [cursor=pointer]:
+          - /url: /sitemap
+        - link "Corporate Information" [ref=e1335] [cursor=pointer]:
+          - /url: /corp-info
+        - link "Whitehat" [ref=e1336] [cursor=pointer]:
+          - /url: /security/whitehat
+        - link "Cleartrip" [ref=e1337] [cursor=pointer]:
+          - /url: https://www.cleartrip.com/
+        - link "Myntra Global" [ref=e1338] [cursor=pointer]:
+          - /url: https://www.myntraglobal.com/
+      - generic [ref=e1339]:
+        - paragraph [ref=e1340]: CUSTOMER POLICIES
+        - link "Contact Us" [ref=e1341] [cursor=pointer]:
+          - /url: /contactus
+        - link "FAQ" [ref=e1342] [cursor=pointer]:
+          - /url: /faqs
+        - link "T&C" [ref=e1343] [cursor=pointer]:
+          - /url: /tac
+        - link "Terms Of Use" [ref=e1344] [cursor=pointer]:
+          - /url: /termsofuse
+        - link "Track Orders" [ref=e1345] [cursor=pointer]:
+          - /url: /my/orders
+        - link "Shipping" [ref=e1346] [cursor=pointer]:
+          - /url: /faqs#shipping
+        - link "Cancellation" [ref=e1347] [cursor=pointer]:
+          - /url: /faqs#cancel
+        - link "Returns" [ref=e1348] [cursor=pointer]:
+          - /url: /faqs#returns
+        - link "Privacy policy" [ref=e1349] [cursor=pointer]:
+          - /url: /privacypolicy
+        - link "Grievance Redressal" [ref=e1350] [cursor=pointer]:
+          - /url: /grievanceredressal
+        - link "FSSAI Food Safety Connect app" [ref=e1351] [cursor=pointer]:
+          - /url: https://fssai.gov.in/cms/food-safety-connect.php
+      - generic [ref=e1352]:
+        - paragraph [ref=e1353]: EXPERIENCE MYNTRA APP ON MOBILE
+        - generic:
+          - link:
+            - /url: https://play.google.com/store/apps/details?id=com.myntra.android
+          - link:
+            - /url: https://itunes.apple.com/in/app/myntra-indias-fashion-store/id907394059
+        - generic [ref=e1354]: KEEP IN TOUCH
+        - link [ref=e1355] [cursor=pointer]:
+          - /url: https://www.facebook.com/myntra
+        - link:
+          - /url: https://twitter.com/myntra
+        - link:
+          - /url: https://www.youtube.com/user/myntradotcom
+        - link:
+          - /url: https://www.instagram.com/myntra
+      - generic [ref=e1357]:
+        - generic [ref=e1361]:
+          - strong [ref=e1362]: 100% ORIGINAL
+          - text: guarantee for all products at myntra.com
+        - generic [ref=e1366]:
+          - strong [ref=e1367]: Return within 14days
+          - text: of receiving your order
+    - generic [ref=e1369]:
+      - separator [ref=e1370]
+      - generic [ref=e1371]: POPULAR SEARCHES
+      - generic [ref=e1372]:
+        - link "Blouse Designs |" [ref=e1373] [cursor=pointer]:
+          - /url: /blouse-design
+        - link "Designer Blouses |" [ref=e1374] [cursor=pointer]:
+          - /url: /designer-blouses
+        - link "Bras |" [ref=e1375] [cursor=pointer]:
+          - /url: /bra
+        - link "Designers Sarees |" [ref=e1376] [cursor=pointer]:
+          - /url: /designers-saree
+        - link "Punjabi Suits |" [ref=e1377] [cursor=pointer]:
+          - /url: /punjabi-suits
+        - link "Babydoll |" [ref=e1378] [cursor=pointer]:
+          - /url: /babydoll
+        - link "Saree |" [ref=e1379] [cursor=pointer]:
+          - /url: /saree
+        - link "Lehenga |" [ref=e1380] [cursor=pointer]:
+          - /url: /lehengas
+        - link "Bikini |" [ref=e1381] [cursor=pointer]:
+          - /url: /bikini
+        - link "Blouse Neck Designs |" [ref=e1382] [cursor=pointer]:
+          - /url: /women-shirts-tops-tees
+        - link "Blouse |" [ref=e1383] [cursor=pointer]:
+          - /url: /saree-blouse
+        - link "Suit Design |" [ref=e1384] [cursor=pointer]:
+          - /url: /salwar-suit
+        - link "Designer Dress |" [ref=e1385] [cursor=pointer]:
+          - /url: /designer-dresses
+        - link "Gowns |" [ref=e1386] [cursor=pointer]:
+          - /url: /gown
+        - link "Online Shopping |" [ref=e1387] [cursor=pointer]:
+          - /url: /
+        - link "Top |" [ref=e1388] [cursor=pointer]:
+          - /url: /tops
+        - link "Kurtis |" [ref=e1389] [cursor=pointer]:
+          - /url: /women-kurtas-kurtis-suits
+        - link "Palazzo |" [ref=e1390] [cursor=pointer]:
+          - /url: /women-palazzo
+        - link "Patiala Suit |" [ref=e1391] [cursor=pointer]:
+          - /url: /patiala-suits
+        - link "Bridal Lehenga |" [ref=e1392] [cursor=pointer]:
+          - /url: /bridal-lehenga
+        - link "Jeans Top |" [ref=e1393] [cursor=pointer]:
+          - /url: /girls-jeans
+        - link "Swim Dress |" [ref=e1394] [cursor=pointer]:
+          - /url: /swimwear
+        - link "Nighty |" [ref=e1395] [cursor=pointer]:
+          - /url: /nightdresses
+        - link "Churidar |" [ref=e1396] [cursor=pointer]:
+          - /url: /churidar-kurta
+        - link "Lehenga Saree |" [ref=e1397] [cursor=pointer]:
+          - /url: /lehenga-saree
+        - link "Western Dress |" [ref=e1398] [cursor=pointer]:
+          - /url: /womens-western-wear
+        - link "Frock Design |" [ref=e1399] [cursor=pointer]:
+          - /url: /short-dresses
+        - link "String Bikini |" [ref=e1400] [cursor=pointer]:
+          - /url: /string-bikini-briefs
+        - link "Ladies Jacket |" [ref=e1401] [cursor=pointer]:
+          - /url: /women-jackets
+        - link "Womens Vest |" [ref=e1402] [cursor=pointer]:
+          - /url: /women-innerwear-vests
+        - link "Lady Dress |" [ref=e1403] [cursor=pointer]:
+          - /url: /women-dresses
+        - link "Anarkali |" [ref=e1404] [cursor=pointer]:
+          - /url: /anarkali
+        - link "Types Of Bra |" [ref=e1405] [cursor=pointer]:
+          - /url: /amante-bra
+        - link "Padded Bras |" [ref=e1406] [cursor=pointer]:
+          - /url: /padded-bra
+        - link "Plazo Suits |" [ref=e1407] [cursor=pointer]:
+          - /url: /palazzo-kurta-sets
+        - link "Boat Neck Blouse |" [ref=e1408] [cursor=pointer]:
+          - /url: /boat-neck
+        - link "Plazo Suit |" [ref=e1409] [cursor=pointer]:
+          - /url: /palazzo-suits
+        - link "H&m Dresses |" [ref=e1410] [cursor=pointer]:
+          - /url: /h-and-m-dresses
+        - link "Gym Leggings |" [ref=e1411] [cursor=pointer]:
+          - /url: /women-sports-leggings
+        - link "Panties |" [ref=e1412] [cursor=pointer]:
+          - /url: /panties
+        - link "Sports Bra |" [ref=e1413] [cursor=pointer]:
+          - /url: /sports-bra
+        - link "Patiala Salwar |" [ref=e1414] [cursor=pointer]:
+          - /url: /patiala-salwar
+        - link "Club Dresses For Women |" [ref=e1415] [cursor=pointer]:
+          - /url: /club-dresses-for-women
+        - link "Bodycon Dresses |" [ref=e1416] [cursor=pointer]:
+          - /url: /bodycon-dresses
+        - link "Party Dress |" [ref=e1417] [cursor=pointer]:
+          - /url: /party-dresses
+        - link "Blouse Designs Back Side |" [ref=e1418] [cursor=pointer]:
+          - /url: /blouse-design
+        - link "Silk Saree |" [ref=e1419] [cursor=pointer]:
+          - /url: /silk-saree
+        - link "Boat Neck Blouse Design |" [ref=e1420] [cursor=pointer]:
+          - /url: /boat-neck-tops
+        - link "Tokyo Talkies Maxi Dresses |" [ref=e1421] [cursor=pointer]:
+          - /url: /tokyo-talkies-maxi-dresses
+        - link "Black Top" [ref=e1422] [cursor=pointer]:
+          - /url: /black-tops
+    - generic [ref=e1423]:
+      - generic [ref=e1424]:
+        - text: In case of any concern,
+        - link "Contact Us" [ref=e1425] [cursor=pointer]:
+          - /url: /contactus
+      - generic [ref=e1426]: © 2026 www.myntra.com. All rights reserved.
+      - link "A Flipkart company" [ref=e1428] [cursor=pointer]:
+        - /url: https://www.flipkart.com/
+```
