@@ -36,8 +36,8 @@ export default defineConfig({
     trace: 'on',
     video: 'on',
     screenshot: 'on',
-    baseURL:process.env.BASE_URL,
-    headless:process.env.HEADLESS
+    //baseURL:process.env.BASE_URL,
+    //headless:process.env.HEADLESS
     },
 
   /* Configure projects for major browsers */
